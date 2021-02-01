@@ -1,6 +1,8 @@
 aiortc
 ======
 
+https://github.com/jlaine/aiortc
+
 |rtd| |pypi-v| |pypi-pyversions| |pypi-l| |tests| |codecov| |gitter|
 
 .. |rtd| image:: https://readthedocs.org/projects/aiortc/badge/?version=latest
